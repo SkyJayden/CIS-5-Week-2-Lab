@@ -1,14 +1,19 @@
 #include <iostream>
 
-// Lab 2 — Your Name
+// Lab 2 — Jayden Mcmillan Brown
 // CIS 5 Week 02 · Program structure
 
+using std::cout;
+using std::cin;
+using std::string;
+//print about me
 int main() {
-  // TODO: replace TODOs with YOUR labeled lines (5–6 total)
-  std::cout << "Name: TODO\n";
-  std::cout << "Interest: TODO\n";
-  std::cout << "CIS 5 goal: TODO\n";
-  std::cout << "Tool path: TODO\n";
-  std::cout << "Fun fact: TODO\n";
+  cout << "=== About me ===\n";
+  cout << "Name: Jayden MB \n";
+  cout << "Interest: Game Development\n";
+  cout << "CIS 5 goal: Get good at programming\n";
+  cout << "Tool path: Visual Studio\n";
+  cout << "Fun fact: I know how to juggle.\n";
+
   return 0;
 }
