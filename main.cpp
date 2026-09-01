@@ -5,7 +5,6 @@
 
 using std::cout;
 using std::cin;
-using std::string;
 //print about me
 int main() {
   cout << "=== About me ===\n";
